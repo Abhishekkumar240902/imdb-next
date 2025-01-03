@@ -1,5 +1,5 @@
 'use client';
-
+//by default all components of nextjs are server side ,so to make onclick we have to make it client side
 import { MdLightMode, MdDarkMode } from 'react-icons/md';
 
 import { useTheme } from 'next-themes';
